@@ -18,43 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Student Union"
-  company = "Northeast Electric Power University"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = "Jilin"
-  date_start = "2017-09-10"
-  date_end = "2018-09-01"
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
   description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Electric Practice Innovation Center"
-  company = "Northeast Electric Power University"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "Jilin"
-  date_start = "2018-09-20"
-  date_end = "2019-09-20"
-  description = """
-  Responsibilities include:
-  
-  * Organize and participate in various scientific and technological competitions at school and college level.
-  * Hold various courses to train lower grade students, introduce extracurricular knowledge related to electronics, including simple hands-on practices such as welding and designing a track car.
-  
-  """
- 
-[[experience]]
-  title = "Robot Studio"
-  company = "Northeast Electric Power University"
-  company_url = ""
-  location = "Jilin"
-  date_start = "2018-09-20"
-  date_end = "2021-06-15"
-  description = """
-  Responsibilities include:
-  
-  * Research on various robot technologies, including biped robots, quadruped robots, drones, etc.
-  * Conduct self-study on machine vision and other knowledge, and participate in related competitions.
-  
-  """
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
