@@ -22,10 +22,9 @@ date_format = "Jan 2006"
   company = "Northeast Electric Power University"
   company_url = ""
   location = "Jilin"
-  date_start = "2017-10"
-  date_end = "2018-09"
-  description="""
-  
+  date_start = "2017-09-10"
+  date_end = "2018-09-01"
+  description = """
   """
 
 [[experience]]
@@ -33,8 +32,8 @@ date_format = "Jan 2006"
   company = "Northeast Electric Power University"
   company_url = ""
   location = "Jilin"
-  date_start = "2018-09"
-  date_end = "2019-09"
+  date_start = "2018-09-20"
+  date_end = "2019-09-20"
   description = """
   Responsibilities include:
   
@@ -48,8 +47,8 @@ date_format = "Jan 2006"
   company = "Northeast Electric Power University"
   company_url = ""
   location = "Jilin"
-  date_start = "2018-10"
-  date_end = "2021-06"
+  date_start = "2018-09-20"
+  date_end = "2021-06-15"
   description = """
   Responsibilities include:
   
