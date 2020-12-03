@@ -35,14 +35,19 @@ subtitle = ""
   name = "Football"
   
 [[feature]]
-  icon = "fas language"
-  icon_pack = "fas"
-  name = "Chinese(native),Japanese(fluent),English(fluent)"
+  icon = "🍚"
+  icon_pack = "emoji"
+  name = "Chinese"
 
 [[feature]]
-  icon = "🗾"
+  icon = "🍙"
   icon_pack = "emoji"
   name = "Japanese"
+  
+[[feature]]
+  icon = "🍟"
+  icon_pack = "emoji"
+  name = "English"
   
 # Uncomment to use emoji icons.
 # [[feature]]
