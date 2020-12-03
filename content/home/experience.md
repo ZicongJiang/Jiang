@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   
   """
  
- [[experience]]
+[[experience]]
   title = "Robot Studio"
   company = "Northeast Electric Power University"
   company_url = ""
