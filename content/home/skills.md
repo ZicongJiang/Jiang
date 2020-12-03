@@ -21,7 +21,7 @@ subtitle = ""
   
 [[feature]]
   icon = "raspberry-pi"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Embedded design"
   
 [[feature]]
@@ -33,6 +33,16 @@ subtitle = ""
   icon = "futbol"
   icon_pack = "fas"
   name = "Football"
+  
+[[feature]]
+  icon = "fas language"
+  icon_pack = "fas"
+  name = "Chinese(native),Japanese(fluent),English(fluent)"
+
+[[feature]]
+  icon = "🗾"
+  icon_pack = "emoji"
+  name = "Japanese"
   
 # Uncomment to use emoji icons.
 # [[feature]]
