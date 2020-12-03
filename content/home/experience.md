@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2017-10"
   date_end = "2018-09"
   description="""
+  
   """
 
 [[experience]]
@@ -37,8 +38,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Organize and participate in various scientific and technological competitions at school and college level.
-  * Hold various courses to train lower grade students, introduce extracurricular knowledge related to electronics, including simple hands-on practices such as welding and designing a track car.
+  * Organize and participate in various scientific and technological competitions at school and           college level.
+  * Hold various courses to train lower grade students, introduce extracurricular knowledge related       to electronics, including simple hands-on practices such as welding and designing a track car.
   
   """
  
@@ -53,7 +54,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Research on various robot technologies, including biped robots, quadruped robots, drones, etc.
-  * Conduct self-study on machine vision and other knowledge, and participate in related competitions.
+  * Conduct self-study on machine vision and other knowledge, and participate in related                 competitions.
   
   """
 
