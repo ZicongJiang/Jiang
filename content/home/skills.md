@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Python, C"
+  name = "Python, C,C++"
   
 [[feature]]
   icon = "raspberry-pi"
