@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Organize and participate in various scientific and technological competitions at school and           college level.
-  * Hold various courses to train lower grade students, introduce extracurricular knowledge related       to electronics, including simple hands-on practices such as welding and designing a track car.
+  * Organize and participate in various scientific and technological competitions at school and college level.
+  * Hold various courses to train lower grade students, introduce extracurricular knowledge related to electronics, including simple hands-on practices such as welding and designing a track car.
   
   """
  
