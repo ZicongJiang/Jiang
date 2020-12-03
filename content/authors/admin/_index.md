@@ -14,7 +14,7 @@ organizations:
   url: "http://www.neepu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Optical Communication
@@ -46,9 +46,9 @@ social:
   link: https://github.com/ZicongJiang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/CV-Zicong JIANG.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "15867824015@163.com"
@@ -58,9 +58,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+[user_groups:
 - Researchers
 - Visitors
----
+---]
 
-Zicong Jiang is a student of communication engineering at the Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology in NEEPU. His research interests include Optical Communication, Computer Version and Signal Processing. He is researching Object Detection with Professor Zhao-url:http://ee.neepu.edu.cn/info/1066/3422.html.
+Zicong Jiang is a student of communication engineering at the Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology in NEEPU. His research interests include Optical Communication, Computer Version and Signal Processing. He is researching Object Detection with Professor Zhao.
