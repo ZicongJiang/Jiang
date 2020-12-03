@@ -63,4 +63,4 @@ highlight_name: false
 - Visitors
 ---]
 
-Zicong Jiang is a student of communication engineering at the Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology in NEEPU. His research interests include Optical Communication, Computer Version and Signal Processing. He is researching Object Detection with Professor Zhao.
+Zicong Jiang is a student of communication engineering at the Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology in NEEPU. His research interests include Optical Communication, Computer Version and Signal Processing. He is researching Object Detection with Professor Liquan Zhao.
