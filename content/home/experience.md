@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Research on various robot technologies, including biped robots, quadruped robots, drones, etc.
-  * Conduct self-study on machine vision and other knowledge, and participate in related                 competitions.
+  * Conduct self-study on machine vision and other knowledge, and participate in related competitions.
   
   """
 
