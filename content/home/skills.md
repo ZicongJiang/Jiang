@@ -25,11 +25,6 @@ subtitle = ""
   name = "Embedded design"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  
-[[feature]]
   icon = "futbol"
   icon_pack = "fas"
   name = "Football"
@@ -37,17 +32,17 @@ subtitle = ""
 [[feature]]
   icon = "🍚"
   icon_pack = "emoji"
-  name = "Chinese"
+  name = "Chinese(native)"
 
 [[feature]]
   icon = "🍙"
   icon_pack = "emoji"
-  name = "Japanese"
+  name = "Japanese(fluent)"
   
 [[feature]]
   icon = "🍟"
   icon_pack = "emoji"
-  name = "English"
+  name = "English(fluent)"
   
 # Uncomment to use emoji icons.
 # [[feature]]
